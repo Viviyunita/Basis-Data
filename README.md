@@ -1,2 +1,2 @@
-# Script Coding
+# Tugas Basis Data
 Pengenalan Data Base
